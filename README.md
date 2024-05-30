@@ -11,7 +11,8 @@ Its an extension board used for home automation.The devices connected to the Sup
 
 # Hardware Used
 1.Socket board<br />
-2.Sensors - i) IR sensor<br />
+2.Sensors - <br />
+            i) IR sensor<br />
             ii)Infrared sensor<br />
             iii)DHT11 
 3.ESP8266 
