@@ -20,10 +20,10 @@ Its an extension board used for home automation.The devices connected to the Sup
 2.Sensors - <br />
             i) IR sensor<br />
             ii)Infrared sensor<br />
-            iii)DHT11 
-3.ESP8266 
-4.NODEMCU
-5.RFID
+            iii)DHT11 <br />
+3.ESP8266 <br />
+4.NODEMCU<br />
+5.RFID<br />
 
             
 Created this IOT project as an outcome of a workshop conducted in the college.
