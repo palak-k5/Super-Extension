@@ -2,10 +2,10 @@
 Its an extension board used for home automation.The devices connected to the Super extension can be controlled using schedules , Sensors ( as per users choice ),manual on off as well as from the dashboard.
 
 # Features include
-1.Sensor based on/off
-2.Scheduler
-3.Compatibility with Voice Assistant (Alexa)
-4.Manual on/off
+1.Sensor based on/off<br />
+2.Scheduler<br />
+3.Compatibility with Voice Assistant (Alexa)<br />
+4.Manual on/off<br />
 
 ![WhatsApp Image 2024-05-30 at 22 55 12_877d91d9](https://github.com/palak-k5/Super-Extension/assets/100283614/164c5d23-cfa8-4b8e-8d33-e83d155270cc)
 
