@@ -15,7 +15,7 @@ Its an extension board used for home automation.The devices connected to the Sup
 2.C++<br />
 3.Arduino Cloud platform
 
-# Hardware Used
+Hardware Used
 1.Socket board<br />
 2.Sensors - <br />
             i) IR sensor<br />
@@ -25,11 +25,9 @@ Its an extension board used for home automation.The devices connected to the Sup
 4.NODEMCU<br />
 5.RFID<br />
 
-            
 Created this IOT project as an outcome of a workshop conducted in the college.
 
 # Future Scope
-
 Integrating machine learning algorithms for automation and RFID card if used for office purpose
 
 
