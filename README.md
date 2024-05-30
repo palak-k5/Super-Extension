@@ -1,12 +1,13 @@
 # Super-Extension
 Its an extension board used for home automation.The devices connected to the Super extension can be controlled using schedules , Sensors ( as per users choice ),manual on off as well as from the dashboard.
 
+![WhatsApp Image 2024-05-30 at 22 55 12_877d91d9](https://github.com/palak-k5/Super-Extension/assets/100283614/164c5d23-cfa8-4b8e-8d33-e83d155270cc)
+
 
 # Technologies used
 1.Arduino Programming<br />
 2.C++
 3.Arduino Cloud platform
-![WhatsApp Image 2024-05-30 at 22 55 12_877d91d9](https://github.com/palak-k5/Super-Extension/assets/100283614/164c5d23-cfa8-4b8e-8d33-e83d155270cc)
 
 # Hardware Used
 1.Socket board<br />
