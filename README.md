@@ -1,6 +1,12 @@
 # Super-Extension
 Its an extension board used for home automation.The devices connected to the Super extension can be controlled using schedules , Sensors ( as per users choice ),manual on off as well as from the dashboard.
 
+# Features include
+1.Sensor based on/off
+2.Scheduler
+3.Compatibility with Voice Assistant (Alexa)
+4.Manual on/off
+
 ![WhatsApp Image 2024-05-30 at 22 55 12_877d91d9](https://github.com/palak-k5/Super-Extension/assets/100283614/164c5d23-cfa8-4b8e-8d33-e83d155270cc)
 
 
@@ -21,4 +27,9 @@ Its an extension board used for home automation.The devices connected to the Sup
 
             
 Created this IOT project as an outcome of a workshop conducted in the college.
+
+# Future Scope
+
+Integrating machine learning algorithms for automation and RFID card if used for office purpose
+
 
