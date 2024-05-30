@@ -12,7 +12,7 @@ Its an extension board used for home automation.The devices connected to the Sup
 
 # Technologies used
 1.Arduino Programming<br />
-2.C++
+2.C++<br />
 3.Arduino Cloud platform
 
 # Hardware Used
