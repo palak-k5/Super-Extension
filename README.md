@@ -15,7 +15,7 @@ Its an extension board used for home automation.The devices connected to the Sup
 2.C++<br />
 3.Arduino Cloud platform
 
-Hardware Used
+Hardware Used<br />
 1.Socket board<br />
 2.Sensors - <br />
             i) IR sensor<br />
